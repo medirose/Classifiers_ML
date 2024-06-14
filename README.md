@@ -45,5 +45,7 @@ Metrics:
     Cross-Validation:
         - Conducted cross-validation to assess model robustness and generalizability.
 
+Presentation: https://docs.google.com/presentation/d/1fJXLQGy-NQ0grsu8Ywlpykyj0uOgiGoFNG15GiJEYzo/edit#slide=id.g1e27ed74ae3_2_0
+
 License:
     - https://creativecommons.org/publicdomain/zero/1.0/
